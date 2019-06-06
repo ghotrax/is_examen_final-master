@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="examenFinal-pascal-triangle" target="1.8" />
-      <module name="examenFinal-sort-bubble" target="1.8" />
+      <module name="examenFinal-sort-bubble" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
